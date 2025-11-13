@@ -35,3 +35,8 @@ print("Stack after Pop: ", myStack.stack)
 print("Peek: ", myStack.peek())
 print("isEmpty: ", myStack.isEmpty())
 print("Size: ", myStack.size())
+
+
+myStack.push("D")
+
+print("Stack after push: ", myStack.stack)
